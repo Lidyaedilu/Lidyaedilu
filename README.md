@@ -1,17 +1,13 @@
 # Hello, I'm Lidya Edilu
-<a href="www.linkedin.com/in/lidya-edilu-2a70301b0"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity student with a profound interest in technology and a dedication to solving complex problems. I will be graduating in December 2024 and pursuing a carrer in cybersecurity. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My journey in coding and computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
