@@ -1,5 +1,5 @@
 # Hello, I'm Lidya Edilu
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/lidya-edilu-2a70301b0"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity student with a profound interest in technology and a dedication to solving complex problems. I will be graduating in December 2024 and pursuing a carrer in cybersecurity. 
 
